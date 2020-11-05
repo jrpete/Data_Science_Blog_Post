@@ -24,9 +24,9 @@ https://www.lendingclub.com/statistics/additional-statistics?
 
 The accepted and rejected loan files obtained from this link should match the file descriptions below: 
 	
-	- accepted_2007_to_2018Q4.csv
+	1. accepted_2007_to_2018Q4.csv
 		- a list of loan applications from 2007 - 2018Q4 that were accepted by the lending institution
-	- rejected_2007_to_2018Q4.csv
+	2. rejected_2007_to_2018Q4.csv
 		- a list of loan applications from 2007 - 2018Q4 that were rejected by the lending institution
 
 
