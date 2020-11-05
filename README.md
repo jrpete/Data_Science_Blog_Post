@@ -7,6 +7,7 @@ and analyze a subset of factors related to a loan applicant that might lead them
 
 ## Libraries
 This project was completed using the following dependencies:
+
 	- Jupyter Notebook v6.0.1
 	- Python v3.7.4
 	- Pandas v0.25.1
